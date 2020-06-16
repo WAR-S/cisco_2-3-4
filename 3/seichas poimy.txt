@@ -1,0 +1,8 @@
+switch 4
+show mac-address-teble
+0001.c77d.09dd vlan 1 on sw3
+0005.5e3e.4e01 Fa0/1 on sw5
+000d.bd0c.ba24 vlan 1 on sw5
+00d0.ba8e.d301  Fa0/1 on sw3
+
+sw3 

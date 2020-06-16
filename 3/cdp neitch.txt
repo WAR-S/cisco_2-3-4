@@ -1,0 +1,33 @@
+//3
+Device ID: Switch
+Entry address(es): 
+  IP address : 192.168.21.2
+Platform: cisco 2950, Capabilities: Switch
+Interface: FastEthernet0/1, Port ID (outgoing port): FastEthernet0/1
+Holdtime: 135
+
+Duplex: full
+//4
+Device ID: Switch
+Entry address(es): 
+  IP address : 192.168.21.1
+Platform: cisco 2950, Capabilities: Switch
+Interface: FastEthernet0/1, Port ID (outgoing port): FastEthernet0/1
+Holdtime: 145
+
+---------------------------
+
+Device ID: Switch
+Entry address(es): 
+  IP address : 192.168.21.3
+Platform: cisco 2950, Capabilities: Switch
+Interface: FastEthernet0/2, Port ID (outgoing port): FastEthernet0/1
+Holdtime: 162
+//5
+
+Device ID: Switch
+Entry address(es): 
+  IP address : 192.168.21.2
+Platform: cisco 2950, Capabilities: Switch
+Interface: FastEthernet0/1, Port ID (outgoing port): FastEthernet0/2
+Holdtime: 122
